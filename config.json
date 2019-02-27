@@ -1,0 +1,13 @@
+{
+  "datastore": {
+    "mysql": {
+      "group": {
+        "host": "",
+        "port": "",
+        "username": "",
+        "password": "",
+        "dbname": ""
+      }
+    }
+  }
+}
